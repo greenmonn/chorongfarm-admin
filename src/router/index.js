@@ -58,6 +58,10 @@ const Register = () => import('@/views/pages/Register')
 const Users = () => import('@/views/users/Users')
 const User = () => import('@/views/users/User')
 
+// Manage Farm
+const Inquiries = () => import('@/views/Inquiries.vue')
+const Orders = () => import('@/views/Orders.vue')
+
 Vue.use(Router)
 
 export default new Router({
@@ -75,6 +79,16 @@ export default new Router({
           path: 'dashboard',
           name: 'Dashboard',
           component: Dashboard
+        },
+        {
+          path: 'inquries',
+          name: 'Inquiries',
+          component: Inquiries
+        },
+        {
+          path: 'orders',
+          name: 'Orders',
+          component: Orders
         },
         {
           path: 'theme',
