@@ -16,6 +16,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -48,6 +49,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -141,6 +144,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -150,6 +155,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -167,6 +173,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -254,6 +262,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -263,6 +273,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -280,6 +291,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -302,22 +315,20 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                  
                 <div
                   class="btn-group b-dropdown dropdown"
-                  id="__BVID__32"
                 >
                   <!---->
                   <button
                     aria-expanded="false"
                     aria-haspopup="true"
                     class="btn btn-success dropdown-toggle"
-                    id="__BVID__32__BV_toggle_"
                     type="button"
                   >
                     Menu
                   </button>
                   <div
-                    aria-labelledby="__BVID__32__BV_toggle_"
                     class="dropdown-menu dropdown-menu-right"
                     role="menu"
+                    tabindex="-1"
                   >
                     <a
                       class="dropdown-item"
@@ -362,11 +373,9 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                  
                 <div
                   class="btn-group b-dropdown dropdown"
-                  id="__BVID__33"
                 >
                   <button
                     class="btn btn-info"
-                    id="__BVID__33__BV_button_"
                     type="button"
                   >
                     Split Menu
@@ -375,7 +384,6 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                     aria-expanded="false"
                     aria-haspopup="true"
                     class="btn btn-info dropdown-toggle dropdown-toggle-split"
-                    id="__BVID__33__BV_toggle_"
                     type="button"
                   >
                     <span
@@ -385,9 +393,9 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                     </span>
                   </button>
                   <div
-                    aria-labelledby="__BVID__33__BV_button_"
                     class="dropdown-menu dropdown-menu-right"
                     role="menu"
+                    tabindex="-1"
                   >
                     <a
                       class="dropdown-item"
@@ -425,6 +433,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -434,6 +444,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -451,6 +462,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -480,6 +493,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -489,6 +504,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -526,6 +542,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -640,6 +658,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                   class="input-group w-25 mx-1 input-group-sm"
                   role="group"
                 >
+                  <!---->
+                  <!---->
                   <div
                     class="input-group-prepend"
                   >
@@ -652,9 +672,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                    
                   <input
                     class="text-right form-control"
-                    id="__BVID__36"
                     type="text"
-                    value="100"
                   />
                    
                   <div
@@ -666,12 +684,16 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                       .00
                     </div>
                   </div>
+                  <!---->
+                  <!---->
                 </div>
                  
                 <div
                   class="input-group w-25 mx-1 input-group-sm"
                   role="group"
                 >
+                  <!---->
+                  <!---->
                   <div
                     class="input-group-prepend"
                   >
@@ -683,8 +705,7 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                   </div>
                    
                   <select
-                    class="form-control custom-select"
-                    id="__BVID__37"
+                    class="custom-select"
                   >
                     <option
                       value="Large"
@@ -702,6 +723,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                       Small
                     </option>
                   </select>
+                  <!---->
+                  <!---->
                 </div>
                  
                 <div
@@ -761,22 +784,20 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
                  
                 <div
                   class="mx-1 btn-group b-dropdown dropdown"
-                  id="__BVID__39"
                 >
                   <!---->
                   <button
                     aria-expanded="false"
                     aria-haspopup="true"
                     class="btn btn-secondary dropdown-toggle"
-                    id="__BVID__39__BV_toggle_"
                     type="button"
                   >
                     menu
                   </button>
                   <div
-                    aria-labelledby="__BVID__39__BV_toggle_"
                     class="dropdown-menu dropdown-menu-right"
                     role="menu"
+                    tabindex="-1"
                   >
                     <a
                       class="dropdown-item"
@@ -828,6 +849,8 @@ exports[`ButtonGroups.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
     </div>

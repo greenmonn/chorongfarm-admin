@@ -16,6 +16,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -48,6 +49,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -68,6 +71,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown1__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -143,6 +147,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-buttons__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -199,6 +204,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-divider__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -251,6 +257,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-header__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <h6
                     class="dropdown-header"
@@ -277,6 +284,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -286,6 +295,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -304,6 +314,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -324,6 +336,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-left__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -372,6 +385,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-right__BV_toggle_"
                   class="dropdown-menu dropdown-menu-right"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -422,6 +436,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-dropup__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -472,6 +487,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-offset__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -532,6 +548,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-split__BV_button_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <a
                     class="dropdown-item"
@@ -563,6 +580,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
     </div>
@@ -576,6 +595,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -594,18 +614,18 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
                 class="btn-group b-dropdown dropdown"
-                id="__BVID__89"
               >
                 <!---->
                 <button
                   aria-expanded="false"
                   aria-haspopup="true"
-                  class="btn btn-link btn-lg"
-                  id="__BVID__89__BV_toggle_"
+                  class="btn btn-link btn-lg dropdown-toggle dropdown-toggle-no-caret"
                   type="button"
                 >
                   
@@ -617,9 +637,9 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   </span>
                 </button>
                 <div
-                  aria-labelledby="__BVID__89__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                    
                   <a
@@ -652,6 +672,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -661,6 +683,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -679,6 +702,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -699,6 +724,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-lg__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -754,6 +780,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-lg-split__BV_button_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -801,6 +828,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-sm__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -856,6 +884,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-sm-split__BV_button_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <button
                     class="dropdown-item"
@@ -884,6 +913,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
     </div>
@@ -897,6 +928,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -915,6 +947,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div>
               <div
@@ -935,6 +969,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                   aria-labelledby="ddown-aria__BV_toggle_"
                   class="dropdown-menu"
                   role="menu"
+                  tabindex="-1"
                 >
                   <div
                     aria-lableledby="header1"
@@ -1016,6 +1051,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
        
@@ -1025,6 +1062,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
         <div
           class="card"
         >
+          <!---->
           <header
             class="card-header"
           >
@@ -1045,6 +1083,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
           <div
             class="card-body"
           >
+            <!---->
+            <!---->
              
             <div
               class="m-0 btn-group b-dropdown dropdown"
@@ -1064,6 +1104,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_primary__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1112,6 +1153,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_secondary__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1160,6 +1202,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_success__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1208,6 +1251,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_warning__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1256,6 +1300,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_danger__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1304,6 +1349,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_info__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1352,6 +1398,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_light__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1400,6 +1447,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_dark__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1448,6 +1496,7 @@ exports[`Dropdowns.vue renders correctly 1`] = `
                 aria-labelledby="ddown_link__BV_toggle_"
                 class="dropdown-menu"
                 role="menu"
+                tabindex="-1"
               >
                 <a
                   class="dropdown-item"
@@ -1478,6 +1527,8 @@ exports[`Dropdowns.vue renders correctly 1`] = `
               </div>
             </div>
           </div>
+          <!---->
+          <!---->
         </div>
       </div>
     </div>

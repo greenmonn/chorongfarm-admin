@@ -22,14 +22,20 @@ exports[`Register.vue renders correctly 1`] = `
           footertag="div"
           headertag="div"
           nobody="true"
+          subtitle=""
           subtitletag="h6"
+          subtitletextvariant="muted"
           tag="div"
+          title=""
           titletag="h4"
         >
           <b-card-body-stub
             bodytag="div"
             class="p-4"
+            subtitle=""
             subtitletag="h6"
+            subtitletextvariant="muted"
+            title=""
             titletag="h4"
           >
             <b-form-stub>
@@ -138,11 +144,10 @@ exports[`Register.vue renders correctly 1`] = `
               </b-input-group-stub>
                
               <b-button-stub
-                activeclass="active"
                 block="true"
                 event="click"
-                exactactiveclass="active"
                 routertag="a"
+                tag="button"
                 target="_self"
                 type="button"
                 variant="success"
@@ -164,12 +169,11 @@ exports[`Register.vue renders correctly 1`] = `
                 tag="div"
               >
                 <b-button-stub
-                  activeclass="active"
                   block="true"
                   class="btn btn-facebook"
                   event="click"
-                  exactactiveclass="active"
                   routertag="a"
+                  tag="button"
                   target="_self"
                   type="button"
                 >
@@ -184,12 +188,11 @@ exports[`Register.vue renders correctly 1`] = `
                 tag="div"
               >
                 <b-button-stub
-                  activeclass="active"
                   block="true"
                   class="btn btn-twitter"
                   event="click"
-                  exactactiveclass="active"
                   routertag="a"
+                  tag="button"
                   target="_self"
                   type="button"
                 >

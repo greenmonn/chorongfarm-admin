@@ -16,8 +16,8 @@ exports[`Tables.vue renders correctly 1`] = `
         fields="[object Object],[object Object],[object Object],[object Object]"
         perpage="5"
         tabledata="() => {
-    /* istanbul ignore next */cov_10ilegof86.f[1]++;
-    cov_10ilegof86.s[7]++;
+    /* istanbul ignore next */cov_9qpnma685.f[1]++;
+    cov_9qpnma685.s[7]++;
     return (0, _utils.shuffleArray)([{
       username: 'Samppa Nori',
       registered: '2012/01/01',
@@ -161,8 +161,8 @@ exports[`Tables.vue renders correctly 1`] = `
         perpage="5"
         striped="true"
         tabledata="() => {
-    /* istanbul ignore next */cov_10ilegof86.f[1]++;
-    cov_10ilegof86.s[7]++;
+    /* istanbul ignore next */cov_9qpnma685.f[1]++;
+    cov_9qpnma685.s[7]++;
     return (0, _utils.shuffleArray)([{
       username: 'Samppa Nori',
       registered: '2012/01/01',
@@ -310,8 +310,8 @@ exports[`Tables.vue renders correctly 1`] = `
         perpage="5"
         small="true"
         tabledata="() => {
-    /* istanbul ignore next */cov_10ilegof86.f[1]++;
-    cov_10ilegof86.s[7]++;
+    /* istanbul ignore next */cov_9qpnma685.f[1]++;
+    cov_9qpnma685.s[7]++;
     return (0, _utils.shuffleArray)([{
       username: 'Samppa Nori',
       registered: '2012/01/01',
@@ -456,8 +456,8 @@ exports[`Tables.vue renders correctly 1`] = `
         fixed="true"
         perpage="5"
         tabledata="() => {
-    /* istanbul ignore next */cov_10ilegof86.f[1]++;
-    cov_10ilegof86.s[7]++;
+    /* istanbul ignore next */cov_9qpnma685.f[1]++;
+    cov_9qpnma685.s[7]++;
     return (0, _utils.shuffleArray)([{
       username: 'Samppa Nori',
       registered: '2012/01/01',
